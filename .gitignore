@@ -1,0 +1,10 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+
+# Others #
+##########
+cwTeXHei-zhonly.ttf
+Test for Text Cloud.ipynb
+.ipynb_checkpoints
